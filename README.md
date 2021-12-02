@@ -4,3 +4,4 @@ I am a student of a Computer Science  who is excited about IT world. Especially 
 
 - I am studying at VSB - Technical University of Ostrava and my field is Computer Science
 - I worked on a project in cooperation with It4Innovations - please check soc_robot_soccer repo!
+- I also took part in internship for profiq. It was amazing discovery tour about web app development!
